@@ -2,7 +2,7 @@
 	"swagger": "2.0",
 	"info": {
 		"version": "1.0.0",
-		"title": "Chartlamp API",
+		"title": "DermaDiagonistix AI API",
 		"description": "This is an API documentation for chartlamp using Swagger.",
 		"termsOfService": "http://example.com/terms/",
 		"contact": {

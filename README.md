@@ -1,4 +1,4 @@
-# Chartlamp Server
+# DermaDiagonistix AI Server
 
 ## Overview
 Derma Diagonistix Server is a Node.js project written in TypeScript.
